@@ -1,4 +1,5 @@
 module PerfectCBSON [system] {
     header "bson.h"
+    link "bson-1.0"
     export *
 }
